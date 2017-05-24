@@ -1,37 +1,34 @@
-## RamazanBot
+## RamazanBot GitHub
 
-You can use the [editor on GitHub](https://github.com/ugurkilci/RamazanBot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+RamazanBot, bir Discord ramazan botudur. Oruçlu biri için paha biçilmez bir bottur.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nasıl Kurulur?
 
-### Markdown
+RamazanBot u [Şimdi Kur](https://guides.github.com/features/mastering-markdown/) linkine tıklayarak kurabilirsiniz.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Nasıl Çalışır?
+
+RamazanBot u Discordunuza kurup gerekli komutları girerek botu çalıştırabilirsiniz.
+
+### Ne Komutları Var?
+
+Şuan bir kaç basit komut mevcut. Bazen size yardım ederken bazen de sizinle eğlenebilir. :D
 
 ```markdown
-Syntax highlighted code block
+Komutlar
 
-# Header 1
-## Header 2
-### Header 3
+1. &yardım
+2. acıktım
+3. susadım
+4. iftara ne kadar kaldı
+5. iftara ne kadar var
+6. iftar ne zaman
+7. iftara kaç saat var
+8. iftara kaç dakika var
+9. iftara kaç gün var
+10. of
+11. ah
+12. oh
+13. püf
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ugurkilci/RamazanBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
