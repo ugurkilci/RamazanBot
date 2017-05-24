@@ -1,6 +1,7 @@
 ## RamazanBot GitHub
 
 RamazanBot, bir Discord ramazan botudur. Oruçlu biri için paha biçilmez bir bottur.
+[Discord](https://discord.gg/2rmY46Y)
 
 ### Kendi Botunu Kurmak İçin?
 
@@ -36,5 +37,13 @@ Komutlar
 11. ah
 12. oh
 13. püf
-
+14. selamın aleyküm
+15. bye bye
+16. güle güle
+17. iyi akşamlar
+18. iyi geceler
+19. selamın aleyküm
+20. sa
+21. günaydın
+22. herkese günaydın
 ```
