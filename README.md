@@ -1,0 +1,2 @@
+# RamazanBot
+Discord Ramazan Botu
