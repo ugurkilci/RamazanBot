@@ -135,6 +135,42 @@ client.on('message', msg => {
    		msg.reply('Biraz Google la! ;)');
    	}
   }
+
+  if (msg.content === 'selamın aleyküm') {
+   	msg.reply('ve aleyküm selam');
+  }
+
+  if (msg.content === 'bye bye') {
+   	msg.reply('su gibi git su gibi gel');
+  }
+
+  if (msg.content === 'günaydın') {
+   	msg.reply('sana da günaydın');
+  }
+
+  if (msg.content === 'herkese günaydın') {
+   	msg.reply('yepyeni bir güne merhaba :)');
+  }
+
+  if (msg.content === 'iyi geceler') {
+   	msg.reply('sana da iyi geceler');
+  }
+
+  if (msg.content === 'sa') {
+   	msg.reply('as');
+  }
+
+  if (msg.content === 'iyi akşamlar') {
+   	msg.reply('sana da iyi akşamlar');
+  }
+
+  if (msg.content === 'selamın aleyküm') {
+   	msg.reply('ve aleyküm selam');
+  }
+
+  if (msg.content === 'güle güle') {
+   	msg.reply('sana da güle güle');
+  }
 });
 
 client.login('TOKEN');
