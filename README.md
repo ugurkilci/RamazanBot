@@ -2,7 +2,13 @@
 
 RamazanBot, bir Discord ramazan botudur. Oruçlu biri için paha biçilmez bir bottur.
 
-### Nasıl Kurulur?
+### Kendi Botunu Kurmak İçin?
+
+```markdown
+npm install --save discord.js
+```
+
+### Nasıl Discorda Kurulur?
 
 RamazanBot u [Şimdi Kur](https://guides.github.com/features/mastering-markdown/) linkine tıklayarak kurabilirsiniz.
 
