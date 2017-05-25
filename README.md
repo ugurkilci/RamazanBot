@@ -11,7 +11,7 @@ npm install --save discord.js
 
 ### Nasıl Discorda Kurulur?
 
-RamazanBot u [Şimdi Kur](https://discordapp.com/oauth2/authorize?client_id=316893953284636683&scope=bot&permissions=0) linkine tıklayarak kurabilirsiniz.
+RamazanBot u [-Şimdi Kur-](https://discordapp.com/oauth2/authorize?client_id=316893953284636683&scope=bot&permissions=0) linkine tıklayarak kurabilirsiniz.
 
 ### Nasıl Çalışır?
 
